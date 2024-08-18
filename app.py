@@ -16,11 +16,12 @@ st.markdown(
     <style>
     .custom-title {
         border: 2px solid pink;
-        background-color: darkblue;
+        background-color: blackfade;
         color: white;
         padding: 10px;
         text-align: center;
         transition: all 0.3s ease-in-out;
+        margin-bottom: 20px;
     }
     .custom-title:hover {
         transform: scale(1.1);
